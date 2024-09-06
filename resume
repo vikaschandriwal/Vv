@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vikas's Resume</title>
+</head>
+
+<body>
+  <h1 align="center">Resume</h1>
+  <table>
+    <tr>
+      <td>
+<img src="../IMG-20240513-WA0097~2.jpg" alt="Vikas Chandriwal Image" width="175">
+      </td>
+      <td>
+<h1>Vikas Chandriwal</h1>
+<p>
+<i>
+  
+
+Student Of B.Tech Computer Science At Mahakal Institute Of Technology And Management </i></p>
+     
+    </td>
+    </tr>
+  </table>
+        <hr>
+     
+       
+<h2>Education</h2>
+<table border="">
+  <tr>
+    <th>Class</th>
+    <th>School/College</th>
+    <th >Year</th>
+    <th>Result</th>
+    <th>Percentage</th>
+  <tr>
+    
+ 
+ 
+  
+    <td>10th</td>
+    <td>Govt.High School Nauganwa</td>
+    <td>2019</td>
+    <td>Pass</td>
+    <td>84.6%</td>
+ <tr>
+   <td>12th</td>
+   <td>Govt.Higher Secondary Sachool Narwar</td>
+   <td>2021</td>
+   <td>Pass</td>
+   <td>83.4%</td>
+  
+
+ 
+ 
+ </tr>  
+   <tr>
+     <td>B.Tech</td>
+       <td>Mahakal Institute Of Technology And Management</td>
+       <td>2026</td>
+       <td align="center">-</td>
+       <td align="center">-</td>
+       
+      
+    
+   </tr>
+
+  </tr>
+  
+</table>
+     
+<h2>Learning</h2>
+<p><b>Programming Languages like-</b> C,C++,HTML,CSS And JS(Java Script).</p>
+<p>Web Development.</p>
+
+     
+     <h2>Skills</h2>
+     
+     <b>
+    
+    Computer Basics.</b>
+   
+        <b>
+       
+          Programming Languages-C And C++.</b>
+        
+        <b>
+       Web Development.</b>
+      <p><i>Languages-</i> <b>Hindi,English.</b></p>
+     
+  
+          <h2>Hobbies</h2>
+          
+          
+      
+        
+        <p>  <b>Reading Books</b></p>
+        <p> <b>Games</b></p>
+      <p><b>photography etc.</b></p>
+          <hr>
+          <h3>Connect With Me-</h3>
+          <p><b>Gmail-</b> <a href="vikaschandriwal9@gmail.com">vikaschandriwal9@gmail.com</a>
+         
+        
+        </p>
+        <p><b>
+       GitHub-</b><a href="github.com/vikaschandriwal">github.com/vikaschandriwal</a></p>
+        <p><b>Mobile Number-</b><a href="7024605926">7024605926</a></p>
+       
+        
+      
+       
+          
+         
+      
+         
+         
+  
+  
+     
+  
+</body>
+</html>
